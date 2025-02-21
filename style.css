@@ -1,5 +1,57 @@
-body{
-    background-color:white;
-    margin: 0;padding: 0;
-    font-size: small;
+*{
+    margin: 0;
+    padding: 0;
 }
+.hero img{
+    margin: 5px;
+    padding: 10px;
+    
+}
+.hero h1{
+    margin: 5px;
+    font-size: 50px;
+    
+    
+}
+.hero p{
+    margin: 5px;
+    font-size: 25px;
+    
+}
+.hero p{
+    margin: 15px;
+    padding: 10px;
+}
+.hero6 {
+    justify-content: center;
+}
+
+.hero6 h3{
+margin: 10px;
+}
+.hero6 p{
+    margin: 10px;
+    }
+    .hero6 h4{
+        margin: 10px;
+        }
+        .hero6 h5{
+            margin: 10px;
+            }
+            .hero6 p{
+                margin: 10px;
+                }
+    .hero1 p{
+        margin: 10px;
+    }
+    .hero1 h1{
+        margin: 10px;
+        padding: 5px;
+    }
+    .row{
+        background-color: black;
+    }
+    .row h3{
+        color: #fff;
+        text-align: center;
+    }
